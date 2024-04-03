@@ -93,10 +93,10 @@
   ],
   "productUsage": [
     { "name": "BizFlow 12", "value": 10.53 },
-    { "name": "Version M20", "value": 15.79 },
-    { "name": "Version M21", "value": 15.79 },
-    { "name": "Version M22", "value": 26.32 },
-    { "name": "Version M23", "value": 26.32 },
+    { "name": "BizFlow M20", "value": 15.79 },
+    { "name": "BizFlow M21", "value": 15.79 },
+    { "name": "BizFlow M22", "value": 26.32 },
+    { "name": "BizFlow M23", "value": 26.32 },
     { "name": "BizFlow M24", "value": 5.26 }
   ]
 }
