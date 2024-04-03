@@ -91,8 +91,8 @@
       "stock": 100
     }
   ],
-  "weatherForecast": {
-    "city": {
+  "weatherForecast": [
+    {
       "name": "Virginia",
       "forecast": [
         {
@@ -132,5 +132,5 @@
         }
       ]
     }
-  }
+  ]
 }
