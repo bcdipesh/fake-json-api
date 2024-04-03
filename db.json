@@ -91,7 +91,7 @@
       "stock": 100
     }
   ],
-  "productUsuage": [
+  "productUsage": [
     { "name": "BizFlow 12", "value": 10.53 },
     { "name": "Version M20", "value": 15.79 },
     { "name": "Version M21", "value": 15.79 },
