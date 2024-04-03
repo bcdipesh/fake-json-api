@@ -91,46 +91,12 @@
       "stock": 100
     }
   ],
-  "weatherForecast": [
-    {
-      "name": "Virginia",
-      "forecast": [
-        {
-          "day": "Monday",
-          "temperature": 72,
-          "weather": "Sunny"
-        },
-        {
-          "day": "Tuesday",
-          "temperature": 68,
-          "weather": "Partly Cloudy"
-        },
-        {
-          "day": "Wednesday",
-          "temperature": 65,
-          "weather": "Cloudy"
-        },
-        {
-          "day": "Thursday",
-          "temperature": 70,
-          "weather": "Rainy"
-        },
-        {
-          "day": "Friday",
-          "temperature": 75,
-          "weather": "Sunny"
-        },
-        {
-          "day": "Saturday",
-          "temperature": 78,
-          "weather": "Partly Cloudy"
-        },
-        {
-          "day": "Sunday",
-          "temperature": 80,
-          "weather": "Sunny"
-        }
-      ]
-    }
+  "productUsuage": [
+    { "name": "BizFlow 12", "value": 10.53 },
+    { "name": "Version M20", "value": 15.79 },
+    { "name": "Version M21", "value": 15.79 },
+    { "name": "Version M22", "value": 26.32 },
+    { "name": "Version M23", "value": 26.32 },
+    { "name": "BizFlow M24", "value": 5.26 }
   ]
 }
