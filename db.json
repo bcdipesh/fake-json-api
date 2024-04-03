@@ -91,86 +91,44 @@
       "stock": 100
     }
   ],
-  "weatherForecast": [
-    {
-      "city": "London",
-      "date": "2024-04-04",
-      "temperature": 12,
-      "conditions": "Cloudy",
-      "wind": 10,
-      "humidity": 75
-    },
-    {
-      "city": "Tokyo",
-      "date": "2024-04-04",
-      "temperature": 20,
-      "conditions": "Sunny",
-      "wind": 5,
-      "humidity": 60
-    },
-    {
-      "city": "New York City",
-      "date": "2024-04-04",
-      "temperature": 8,
-      "conditions": "Rain",
-      "wind": 15,
-      "humidity": 85
-    },
-    {
-      "city": "Sydney",
-      "date": "2024-04-04",
-      "temperature": 25,
-      "conditions": "Clear",
-      "wind": 7,
-      "humidity": 55
-    },
-    {
-      "city": "Paris",
-      "date": "2024-04-04",
-      "temperature": 15,
-      "conditions": "Partly Cloudy",
-      "wind": 12,
-      "humidity": 70
-    },
-    {
-      "city": "Rio de Janeiro",
-      "date": "2024-04-04",
-      "temperature": 28,
-      "conditions": "Sunny",
-      "wind": 8,
-      "humidity": 78
-    },
-    {
-      "city": "Berlin",
-      "date": "2024-04-04",
-      "temperature": 5,
-      "conditions": "Snow",
-      "wind": 18,
-      "humidity": 80
-    },
-    {
-      "city": "Los Angeles",
-      "date": "2024-04-04",
-      "temperature": 22,
-      "conditions": "Clear",
-      "wind": 3,
-      "humidity": 62
-    },
-    {
-      "city": "Rome",
-      "date": "2024-04-04",
-      "temperature": 18,
-      "conditions": "Partly Cloudy",
-      "wind": 10,
-      "humidity": 68
-    },
-    {
-      "city": "Beijing",
-      "date": "2024-04-04",
-      "temperature": 10,
-      "conditions": "Haze",
-      "wind": 13,
-      "humidity": 82
-    }
-  ]
+  "weatherForecast": {
+    "city": "Virginia",
+    "forecast": [
+      {
+        "day": "Monday",
+        "temperature": 72,
+        "weather": "Sunny"
+      },
+      {
+        "day": "Tuesday",
+        "temperature": 68,
+        "weather": "Partly Cloudy"
+      },
+      {
+        "day": "Wednesday",
+        "temperature": 65,
+        "weather": "Cloudy"
+      },
+      {
+        "day": "Thursday",
+        "temperature": 70,
+        "weather": "Rainy"
+      },
+      {
+        "day": "Friday",
+        "temperature": 75,
+        "weather": "Sunny"
+      },
+      {
+        "day": "Saturday",
+        "temperature": 78,
+        "weather": "Partly Cloudy"
+      },
+      {
+        "day": "Sunday",
+        "temperature": 80,
+        "weather": "Sunny"
+      }
+    ]
+  }
 }
