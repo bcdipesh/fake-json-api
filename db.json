@@ -98,5 +98,47 @@
     { "name": "BizFlow M22", "value": 26.32 },
     { "name": "BizFlow M23", "value": 26.32 },
     { "name": "BizFlow M24", "value": 5.26 }
+  ],
+  "monthlyHiringInquiries": [
+    {
+      "value": 20,
+      "month": "hiringInquiriesInJanuary"
+    },
+    {
+      "value": 25,
+      "month": "hiringInquiriesInFebruary"
+    },
+    {
+      "value": 18,
+      "month": "hiringInquiriesInMarch"
+    },
+    {
+      "value": 30,
+      "month": "hiringInquiriesInApril"
+    }
+  ],
+  "hiringInquiriesInJanuary": [
+    ["Professional Services", 5],
+    ["Human Resources", 3],
+    ["Finance", 4],
+    ["Business Development", 8]
+  ],
+  "hiringInquiriesInFebruary": [
+    ["Professional Services", 6],
+    ["Human Resources", 4],
+    ["Finance", 3],
+    ["Business Development", 12]
+  ],
+  "hiringInquiriesInMarch": [
+    ["Professional Services", 4],
+    ["Human Resources", 2],
+    ["Finance", 1],
+    ["Business Development", 11]
+  ],
+  "hiringInquiriesInApril": [
+    ["Professional Services", 7],
+    ["Human Resources", 1],
+    ["Finance", 5],
+    ["Business Development", 17]
   ]
 }
