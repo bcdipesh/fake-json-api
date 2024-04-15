@@ -101,44 +101,44 @@
   ],
   "monthlyHiringInquiries": [
     {
-      "value": 20,
-      "month": "hiringInquiriesInJanuary"
+      "totalInquiries": 20,
+      "month": "january",
+      "data": [
+        ["Professional Services", 5],
+        ["Human Resources", 3],
+        ["Finance", 4],
+        ["Business Development", 8]
+      ]
     },
     {
-      "value": 25,
-      "month": "hiringInquiriesInFebruary"
+      "totalInquiries": 25,
+      "month": "february",
+      "data": [
+        ["Professional Services", 6],
+        ["Human Resources", 4],
+        ["Finance", 3],
+        ["Business Development", 12]
+      ]
     },
     {
-      "value": 18,
-      "month": "hiringInquiriesInMarch"
+      "totalInquiries": 18,
+      "month": "march",
+      "data": [
+        ["Professional Services", 4],
+        ["Human Resources", 2],
+        ["Finance", 1],
+        ["Business Development", 11]
+      ]
     },
     {
-      "value": 30,
-      "month": "hiringInquiriesInApril"
+      "totalInquiries": 30,
+      "month": "april",
+      "data": [
+        ["Professional Services", 7],
+        ["Human Resources", 1],
+        ["Finance", 5],
+        ["Business Development", 17]
+      ]
     }
-  ],
-  "hiringInquiriesInJanuary": [
-    ["Professional Services", 5],
-    ["Human Resources", 3],
-    ["Finance", 4],
-    ["Business Development", 8]
-  ],
-  "hiringInquiriesInFebruary": [
-    ["Professional Services", 6],
-    ["Human Resources", 4],
-    ["Finance", 3],
-    ["Business Development", 12]
-  ],
-  "hiringInquiriesInMarch": [
-    ["Professional Services", 4],
-    ["Human Resources", 2],
-    ["Finance", 1],
-    ["Business Development", 11]
-  ],
-  "hiringInquiriesInApril": [
-    ["Professional Services", 7],
-    ["Human Resources", 1],
-    ["Finance", 5],
-    ["Business Development", 17]
   ]
 }
