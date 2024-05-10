@@ -1,54 +1,54 @@
 {
   "workloadTrackerData": [
     {
-      "Work Item ID": "ABC123",
-      "Date Created": "2024-05-08",
-      "Service": "IT Help Desk",
-      "Description": "User reported internet connectivity issues.",
-      "Assigned To": "John Smith",
-      "Days Since Created": 2,
-      "Remediation Status": "New",
-      "Progress Status": "Unassigned"
+      "workItemId": "ABC123",
+      "dateCreated": "2024-05-08",
+      "service": "IT Help Desk",
+      "description": "User reported internet connectivity issues.",
+      "assignedTo": "John Smith",
+      "daysSinceCreated": 2,
+      "remediationStatus": "New",
+      "progressStatus": "Unassigned"
     },
     {
-      "Work Item ID": "DEF456",
-      "Date Created": "2024-05-07",
-      "Service": "Marketing",
-      "Description": "Update social media graphics for upcoming campaign.",
-      "Assigned To": "Jane Doe",
-      "Days Since Created": 3,
-      "Remediation Status": "In Progress",
-      "Progress Status": "Design finalized, awaiting content approval"
+      "workItemId": "DEF456",
+      "dateCreated": "2024-05-07",
+      "service": "Marketing",
+      "description": "Update social media graphics for upcoming campaign.",
+      "assignedTo": "Jane Doe",
+      "daysSinceCreated": 3,
+      "remediationStatus": "In Progress",
+      "progressStatus": "Design finalized, awaiting content approval"
     },
     {
-      "Work Item ID": "GHI789",
-      "Date Created": "2024-05-03",
-      "Service": "Accounting",
-      "Description": "Discrepancy found in sales report. Investigate further.",
-      "Assigned To": "David Lee",
-      "Days Since Created": 7,
-      "Remediation Status": "Urgent",
-      "Progress Status": "Reviewing financial data, awaiting clarification from sales team"
+      "workItemId": "GHI789",
+      "dateCreated": "2024-05-03",
+      "service": "Accounting",
+      "description": "Discrepancy found in sales report. Investigate further.",
+      "assignedTo": "David Lee",
+      "daysSinceCreated": 7,
+      "remediationStatus": "Urgent",
+      "progressStatus": "Reviewing financial data, awaiting clarification from sales team"
     },
     {
-      "Work Item ID": "JKL012",
-      "Date Created": "2024-04-25",
-      "Service": "Facilities",
-      "Description": "Leaky faucet reported in break room.",
-      "Assigned To": "Maintenance Team",
-      "Days Since Created": 15,
-      "Remediation Status": "Pending Parts",
-      "Progress Status": "Parts ordered, waiting for delivery"
+      "workItemId": "JKL012",
+      "dateCreated": "2024-04-25",
+      "service": "Facilities",
+      "description": "Leaky faucet reported in break room.",
+      "assignedTo": "Maintenance Team",
+      "daysSinceCreated": 15,
+      "remediationStatus": "Pending Parts",
+      "progressStatus": "Parts ordered, waiting for delivery"
     },
     {
-      "Work Item ID": "MNO345",
-      "Date Created": "2024-05-09",
-      "Service": "Content Management",
-      "Description": "Update product descriptions on e-commerce website.",
-      "Assigned To": "Sarah Jones",
-      "Days Since Created": 1,
-      "Remediation Status": "New",
-      "Progress Status": "Gathering product information for update"
+      "workItemId": "MNO345",
+      "dateCreated": "2024-05-09",
+      "service": "Content Management",
+      "description": "Update product descriptions on e-commerce website.",
+      "assignedTo": "Sarah Jones",
+      "daysSinceCreated": 1,
+      "remediationStatus": "New",
+      "progressStatus": "Gathering product information for update"
     }
   ]
 }
