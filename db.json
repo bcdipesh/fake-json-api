@@ -1,145 +1,54 @@
 {
-  "products": [
+  "workloadTrackerData": [
     {
-      "id": 1,
-      "name": "Running Shoes",
-      "description": "Lightweight and breathable shoes for your next run",
-      "price": 79.99,
-      "category": "sports",
-      "image": "https://example.com/images/products/running-shoes.jpg",
-      "stock": 80
+      "Work Item ID": "ABC123",
+      "Date Created": "2024-05-08",
+      "Service": "IT Help Desk",
+      "Description": "User reported internet connectivity issues.",
+      "Assigned To": "John Smith",
+      "Days Since Created": 2,
+      "Remediation Status": "New",
+      "Progress Status": "Unassigned"
     },
     {
-      "id": 2,
-      "name": "Backpack",
-      "description": "Durable backpack for everyday use or travel",
-      "price": 49.99,
-      "category": "accessories",
-      "image": "https://example.com/images/products/backpack.jpg",
-      "stock": 45
+      "Work Item ID": "DEF456",
+      "Date Created": "2024-05-07",
+      "Service": "Marketing",
+      "Description": "Update social media graphics for upcoming campaign.",
+      "Assigned To": "Jane Doe",
+      "Days Since Created": 3,
+      "Remediation Status": "In Progress",
+      "Progress Status": "Design finalized, awaiting content approval"
     },
     {
-      "id": 3,
-      "name": "Wireless Keyboard",
-      "description": "Compact and comfortable wireless keyboard for your desk",
-      "price": 34.99,
-      "category": "electronics",
-      "image": "https://example.com/images/products/keyboard.jpg",
-      "stock": 60
+      "Work Item ID": "GHI789",
+      "Date Created": "2024-05-03",
+      "Service": "Accounting",
+      "Description": "Discrepancy found in sales report. Investigate further.",
+      "Assigned To": "David Lee",
+      "Days Since Created": 7,
+      "Remediation Status": "Urgent",
+      "Progress Status": "Reviewing financial data, awaiting clarification from sales team"
     },
     {
-      "id": 4,
-      "name": "Water Bottle",
-      "description": "Reusable water bottle to stay hydrated on the go",
-      "price": 14.99,
-      "category": "kitchen",
-      "image": "https://example.com/images/products/water-bottle.jpg",
-      "stock": 120
+      "Work Item ID": "JKL012",
+      "Date Created": "2024-04-25",
+      "Service": "Facilities",
+      "Description": "Leaky faucet reported in break room.",
+      "Assigned To": "Maintenance Team",
+      "Days Since Created": 15,
+      "Remediation Status": "Pending Parts",
+      "Progress Status": "Parts ordered, waiting for delivery"
     },
     {
-      "id": 5,
-      "name": "Sunglasses",
-      "description": "Stylish sunglasses to protect your eyes from the sun",
-      "price": 29.99,
-      "category": "accessories",
-      "image": "https://example.com/images/products/sunglasses.jpg",
-      "stock": 35
-    },
-    {
-      "id": 6,
-      "name": "Desk Lamp",
-      "description": "Adjustable desk lamp for better lighting",
-      "price": 24.99,
-      "category": "office",
-      "image": "https://example.com/images/products/desk-lamp.jpg",
-      "stock": 50
-    },
-    {
-      "id": 7,
-      "name": "Novel",
-      "description": "A captivating novel for your next reading adventure",
-      "price": 12.99,
-      "category": "books",
-      "image": "https://example.com/images/products/novel.jpg",
-      "stock": 90
-    },
-    {
-      "id": 8,
-      "name": "Plant",
-      "description": "A beautiful and easy-care houseplant",
-      "price": 19.99,
-      "category": "home",
-      "image": "https://example.com/images/products/plant.jpg",
-      "stock": 70
-    },
-    {
-      "id": 9,
-      "name": "Watch",
-      "description": "Stylish and functional watch to keep track of time",
-      "price": 99.99,
-      "category": "accessories",
-      "image": "https://example.com/images/products/watch.jpg",
-      "stock": 20
-    },
-    {
-      "id": 10,
-      "name": "Phone Case",
-      "description": "Protective case for your smartphone",
-      "price": 19.99,
-      "category": "accessories",
-      "image": "https://example.com/images/products/phone-case.jpg",
-      "stock": 100
+      "Work Item ID": "MNO345",
+      "Date Created": "2024-05-09",
+      "Service": "Content Management",
+      "Description": "Update product descriptions on e-commerce website.",
+      "Assigned To": "Sarah Jones",
+      "Days Since Created": 1,
+      "Remediation Status": "New",
+      "Progress Status": "Gathering product information for update"
     }
-  ],
-  "productUsage": [
-    { "name": "BizFlow 12", "value": 10.53 },
-    { "name": "BizFlow M20", "value": 15.79 },
-    { "name": "BizFlow M21", "value": 15.79 },
-    { "name": "BizFlow M22", "value": 26.32 },
-    { "name": "BizFlow M23", "value": 26.32 },
-    { "name": "BizFlow M24", "value": 5.26 }
-  ],
-  "monthlyHiringInquiries": [
-    {
-      "totalInquiries": 20,
-      "month": "january",
-      "data": [
-        ["Professional Services", 5],
-        ["Human Resources", 3],
-        ["Finance", 4],
-        ["Business Development", 8]
-      ]
-    },
-    {
-      "totalInquiries": 25,
-      "month": "february",
-      "data": [
-        ["Professional Services", 6],
-        ["Human Resources", 4],
-        ["Finance", 3],
-        ["Business Development", 12]
-      ]
-    },
-    {
-      "totalInquiries": 18,
-      "month": "march",
-      "data": [
-        ["Professional Services", 4],
-        ["Human Resources", 2],
-        ["Finance", 1],
-        ["Business Development", 11]
-      ]
-    },
-    {
-      "totalInquiries": 30,
-      "month": "april",
-      "data": [
-        ["Professional Services", 7],
-        ["Human Resources", 1],
-        ["Finance", 5],
-        ["Business Development", 17]
-      ]
-    }
-  ],
-  "health": "API is up and running"
+  ]
 }
